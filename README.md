@@ -22,14 +22,14 @@ The project includes 5 tasks covering infographic design, professional profiles,
 📁 Project Structure
 
 digital-literacy-project/
-
-README.md
-report/
-task-1-presentation/
-task-2-portfolio/
-task-3-platforms/
-task-4-email-etiquette/
-task-5-cybercrime/
+│
+├── README.md
+├── report/
+├── task-1-presentation/
+├── task-2-portfolio/
+├── task-3-platforms/
+├── task-4-email-etiquette/
+└── task-5-cybercrime/
 
 ---
 
@@ -81,7 +81,7 @@ Platforms created/updated:
 
 🔐 Task 5: Cybercrime Awareness
 
-- Selected topic: UPI Fraud
+- Selected topic: UPI Fraud 
 - Created:
   - Case study
   - Prevention checklist
